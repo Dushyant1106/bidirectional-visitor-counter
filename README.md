@@ -1,3 +1,5 @@
+![x](https://github.com/Dushyant1106/bidirectional-visitor-counter/blob/main/BIDIRECTIONAL%20VISITOR%20COUNTER.png)
+
 #include<LiquidCrystal.h>
 LiquidCrystal lcd(13,11,5,4,3,2);
 
